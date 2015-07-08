@@ -1,0 +1,5 @@
+elasticsearch:
+  from_pkg_repo: true
+  version: '1.4.4'
+  pkg_repo_url: 'http://packages.elastic.co/elasticsearch/1.6/centos'
+  single_pkg_url: 'https://download.elastic.co/elasticsearch/elasticsearch/elasticsearch-1.4.4.noarch.rpm'
